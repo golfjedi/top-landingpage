@@ -100,13 +100,16 @@ button {
     font-size: 18px;
     margin: 16px;
     justify-content: center;
+    align-items: flex-start;
     margin-bottom: 36px;
     font-weight: normal;
     flex-wrap: wrap;
+    padding: 8px
 }
 
 .text {
     text-align: center;
+    margin-top: 16px;
 }
 
 .mainpup {
